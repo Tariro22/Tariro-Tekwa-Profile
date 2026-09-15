@@ -1,0 +1,24 @@
+img{
+    width : 150px;
+    height : 150px;
+}
+header{
+    background-color:  rgb(192, 47, 71);
+}
+footer{
+    background-color: rgb(240, 107, 130);
+}
+
+.aboutme{
+    background-color: rgb(191, 149, 230);
+}
+.skills{
+    background-color: rgb(237, 141, 233);
+}
+main section{
+    display: flex;
+    width: 33%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
